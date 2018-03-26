@@ -1,4 +1,7 @@
 # ZeneLista
 close brace tutorial project
 
-kis modositas
+kis modositas\
+
+meg egy kis modositas
+
