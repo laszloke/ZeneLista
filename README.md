@@ -1,7 +1,4 @@
 # ZeneLista
-close brace tutorial project
-
-kis modositas\
-
-meg egy kis modositas
+az adatok a Mongodb ben
+demon inditas :  mongod --dbpath Mongodb 
 
